@@ -1,7 +1,7 @@
-import myNewPackage from '../src'
+import mediumDemo from '../src'
 
 (async () => {
-  const res = await myNewPackage({
+  const res = await mediumDemo({
     text: 'example',
   })
   console.log(res)

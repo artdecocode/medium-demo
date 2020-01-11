@@ -1,12 +1,12 @@
-const { _myNewPackage } = require('./mnp')
+const { _mediumDemo } = require('./medium-demo')
 
 /**
- * @methodType {_myNewPackage.myNewPackage}
+ * @methodType {_mediumDemo.mediumDemo}
  */
-function myNewPackage(config) {
-  return _myNewPackage(config)
+function mediumDemo(config) {
+  return _mediumDemo(config)
 }
 
-module.exports = myNewPackage
+module.exports = mediumDemo
 
 /* typal types/index.xml namespace */

@@ -1,11 +1,11 @@
-# my-new-package
+# @artdeco/medium-demo
 
-%NPM: my-new-package%
+%NPM: @artdeco/medium-demo%
 
-`my-new-package` is {{ description }}
+`@artdeco/medium-demo` is Hello World.
 
 ```sh
-yarn add my-new-package
+yarn add @artdeco/medium-demo
 ```
 
 ## Table Of Contents
